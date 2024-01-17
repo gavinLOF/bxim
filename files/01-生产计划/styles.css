@@ -4,7 +4,7 @@
   background-image:none;
   position:relative;
   left:0px;
-  width:1100px;
+  width:1168px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -22,8 +22,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1100px;
-  height:650px;
+  width:1168px;
+  height:710px;
   background:inherit;
   background-color:rgba(230, 232, 235, 1);
   border:none;
@@ -37,8 +37,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1100px;
-  height:650px;
+  width:1168px;
+  height:710px;
   display:flex;
 }
 #u29 .text {
